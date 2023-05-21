@@ -18,6 +18,7 @@
             android:id="@+id/file_type_icon"
             android:layout_width="139dp"
             android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
             app:srcCompat="@drawable/folder" />
 
         <TextView
